@@ -1,11 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using PatikaDev.DAL.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+using PatikaDev.Models.Entities;
 namespace PatikaDev.DAL.Contexts
 {
     /// <summary>

@@ -8,6 +8,11 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using PatikaDev.Bussines.Abstract;
+using PatikaDev.Bussines.Concrete;
+using PatikaDev.Bussines.Configuration.Mapper;
+using PatikaDev.DAL.Abstract;
+using PatikaDev.DAL.Concrete.Ef;
 using PatikaDev.DAL.Contexts;
 using System;
 using System.Collections.Generic;
@@ -31,7 +36,16 @@ namespace PatikaDev.Odev1WebAPI
             services.AddDbContext<ECommerceContext>(options =>
               options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
 
+            services.AddAutoMapper(config =>
+            {
+                config.AddProfile(new MapperProfile());
+            });
+
+            services.AddScoped<ICustomerRepository, EFCustomerRepository>();
+            services.AddScoped<ICustomerService, CustomerService>();
+
             services.AddControllers();
+
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "PatikaDev.Odev1WebAPI", Version = "v1" });
