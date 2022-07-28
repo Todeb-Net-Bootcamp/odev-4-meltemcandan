@@ -69,16 +69,3 @@ C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-4-meltemcandan\PatikaDev\PatikaD
 C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-4-meltemcandan\PatikaDev\PatikaDev.Odev1WebAPI\obj\Debug\net5.0\PatikaDev.ECommerceWebAPI.pdb
 C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-4-meltemcandan\PatikaDev\PatikaDev.Odev1WebAPI\obj\Debug\net5.0\PatikaDev.ECommerceWebAPI.genruntimeconfig.cache
 C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-4-meltemcandan\PatikaDev\PatikaDev.Odev1WebAPI\obj\Debug\net5.0\ref\PatikaDev.ECommerceWebAPI.dll
-C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-4-meltemcandan\PatikaDev\PatikaDev.Odev1WebAPI\bin\Debug\net5.0\PatikaDev.Models.dll
-C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-4-meltemcandan\PatikaDev\PatikaDev.Odev1WebAPI\bin\Debug\net5.0\PatikaDev.Models.pdb
-C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-4-meltemcandan\PatikaDev\PatikaDev.Odev1WebAPI\bin\Debug\net5.0\AutoMapper.dll
-C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-4-meltemcandan\PatikaDev\PatikaDev.Odev1WebAPI\bin\Debug\net5.0\FluentValidation.dll
-C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-4-meltemcandan\PatikaDev\PatikaDev.Odev1WebAPI\bin\Debug\net5.0\PatikaDev.Bussines.dll
-C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-4-meltemcandan\PatikaDev\PatikaDev.Odev1WebAPI\bin\Debug\net5.0\PatikaDev.DTO.dll
-C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-4-meltemcandan\PatikaDev\PatikaDev.Odev1WebAPI\bin\Debug\net5.0\PatikaDev.Bussines.pdb
-C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-4-meltemcandan\PatikaDev\PatikaDev.Odev1WebAPI\bin\Debug\net5.0\PatikaDev.DTO.pdb
-C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-4-meltemcandan\PatikaDev\PatikaDev.Odev1WebAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-4-meltemcandan\PatikaDev\PatikaDev.Odev1WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-4-meltemcandan\PatikaDev\PatikaDev.Odev1WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
-C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-4-meltemcandan\PatikaDev\PatikaDev.Odev1WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
-C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-4-meltemcandan\PatikaDev\PatikaDev.Odev1WebAPI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll

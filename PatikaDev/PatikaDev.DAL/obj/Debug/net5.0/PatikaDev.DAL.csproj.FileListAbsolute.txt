@@ -13,6 +13,3 @@ C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-4-meltemcandan\PatikaDev\PatikaD
 C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-4-meltemcandan\PatikaDev\PatikaDev.DAL\bin\Debug\net5.0\PatikaDev.DAL.runtimeconfig.json
 C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-4-meltemcandan\PatikaDev\PatikaDev.DAL\bin\Debug\net5.0\PatikaDev.DAL.runtimeconfig.dev.json
 C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-4-meltemcandan\PatikaDev\PatikaDev.DAL\obj\Debug\net5.0\PatikaDev.DAL.genruntimeconfig.cache
-C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-4-meltemcandan\PatikaDev\PatikaDev.DAL\bin\Debug\net5.0\PatikaDev.Models.dll
-C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-4-meltemcandan\PatikaDev\PatikaDev.DAL\bin\Debug\net5.0\PatikaDev.Models.pdb
-C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-4-meltemcandan\PatikaDev\PatikaDev.DAL\obj\Debug\net5.0\PatikaDev.DAL.csproj.CopyComplete
